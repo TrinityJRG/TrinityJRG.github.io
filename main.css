@@ -64,7 +64,7 @@ a:hover  {
 }
 
 #search  {
-   float: center;
+   margin: 0 auto;
 }
 form input	{
       background: #333333;
