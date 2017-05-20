@@ -63,6 +63,12 @@ a:hover {
   color: #70838c;
 }
 
+search   {
+   width: 32px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
 form input	{
       background: #333333;
 }
