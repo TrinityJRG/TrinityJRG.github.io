@@ -64,9 +64,10 @@ a:hover  {
 }
 
 #search  {
-   float: right;
+   float: middle;
 }
 form input	{
       background: #333333;
-      border: 1px solid #70838c;
+      border-style: solid;
+      border-color: #70838c;
 }
