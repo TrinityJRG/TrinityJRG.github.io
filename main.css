@@ -62,13 +62,3 @@ a  {
 a:hover  {
   color: #70838c;
 }
-
-#search  {
-   width: 31px;
-   margin-left: 40%;
-}
-form input	{
-      background: #333333;
-      border-style: solid;
-      border-color: #70838c;
-}
