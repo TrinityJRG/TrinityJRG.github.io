@@ -90,7 +90,7 @@ body {
 
 .bookmark-set{
     padding: 1em;
-    background-color: #272727;
+    background-color: #901003;
     border-radius: 3px;
     font-family: "Roboto Mono";
     font-size: .85rem;
@@ -106,7 +106,7 @@ body {
 .bookmark-title {
     font-size: 1.1rem;
     font-weight: 600;
-    color: #952b0b;
+    color: #901003;
     margin: 0em 0em .35em 0em;
 }
 .bookmark {
