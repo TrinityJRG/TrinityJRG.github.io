@@ -106,15 +106,15 @@ body {
 .bookmark-title {
     font-size: 1.1rem;
     font-weight: 600;
-    color: #195769;
+    color: #1f827d;
     margin: 0em 0em .35em 0em;
 }
 .bookmark {
     text-decoration: none;
-    color: #195769;
+    color: #1f827d;
     display:block;
     margin: .5em 0em;
 }
 .bookmark:hover {
-    color: #195769;
+    color: #1f827d;
 }
