@@ -19,7 +19,7 @@ body {
     font-size: 3.5rem;
     font-weight: 600;
     font-family: "Roboto Mono";
-    color: #662157;
+    color: #F35C70;
     margin-bottom: .25em;
 }
 
@@ -90,7 +90,7 @@ body {
 
 .bookmark-set{
     padding: 1em;
-    background-color: #662157;
+    background-color: #F35C70;
     border-radius: 3px;
     font-family: "Roboto Mono";
     font-size: .85rem;
