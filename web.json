@@ -1,20 +1,20 @@
 {
   "greeting_text": "おかえり！",
-  "background": "#0c1213",
-  "foreground": "#99b4b9",
+  "background": "#171928",
+  "foreground": "#c7b7c7",
   "search_engine": "https://www.google.co.id/search?q=",
   "favourites": [
     {
-      "key": ":fp",
-      "url": "https://forum.facepunch.com/f/"
+      "key": ":fb",
+      "url": "http://facebook.com"
     },
     {
-      "key": ":pb",
-      "url": "https://thepiratebay.org/"
+      "key": ":tt",
+      "url": "http://twitter.com"
     },
     {
-      "key": ":sp",
-      "url": "http://www.shanaproject.com/"
+      "key": ":ig",
+      "url": "http://instagram.com"
     },
     {
       "key": ":yt",
@@ -25,28 +25,16 @@
       "url": "http://github.com"
     },
     {
-      "key": ":ru",
-      "url": "https://rutracker.net/forum/index.php"
+      "key": ":ks",
+      "url": "http://kaskus.co.id"
     },
     {
-      "key": ":fc",
-      "url": "http://boards.4chan.org"
+      "key": ":tp",
+      "url": "http://tokopedia.com"
     },
     {
-      "key": ":gm",
+      "key": ":em",
       "url": "http://gmail.com"
-    },
-    {
-      "key": ":up",
-      "url": "https://reddit.com/r/unixporn"
-    },
-    {
-      "key": ":wh",
-      "url": "https://alpha.wallhaven.cc/"
-    },
-    {
-      "key": ":pt",
-      "url": "https://pywal.herokuapp.com/"
-    },
+    }
   ]
 }
