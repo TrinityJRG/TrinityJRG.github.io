@@ -1,0 +1,52 @@
+{
+  "greeting_text": "おかえり！",
+  "background": "#0c1213",
+  "foreground": "#99b4b9",
+  "search_engine": "https://www.google.co.id/search?q=",
+  "favourites": [
+    {
+      "key": ":fp",
+      "url": "https://forum.facepunch.com/f/"
+    },
+    {
+      "key": ":pb",
+      "url": "https://thepiratebay.org/"
+    },
+    {
+      "key": ":sp",
+      "url": "http://www.shanaproject.com/"
+    },
+    {
+      "key": ":yt",
+      "url": "http://youtu.be"
+    },
+    {
+      "key": ":gh",
+      "url": "http://github.com"
+    },
+    {
+      "key": ":ru",
+      "url": "https://rutracker.net/forum/index.php"
+    },
+    {
+      "key": ":fc",
+      "url": "http://boards.4chan.org"
+    },
+    {
+      "key": ":gm",
+      "url": "http://gmail.com"
+    },
+    {
+      "key": ":up",
+      "url": "https://reddit.com/r/unixporn"
+    },
+    {
+      "key": ":wh",
+      "url": "https://alpha.wallhaven.cc/"
+    },
+    {
+      "key": ":pt",
+      "url": "https://pywal.herokuapp.com/"
+    },
+  ]
+}
