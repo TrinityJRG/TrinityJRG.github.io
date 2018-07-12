@@ -1,12 +1,13 @@
 .content {
 background-color: #315a5d;
-width: 200; 
+width: 202; 
 height: 250;
+display: inline-block;
 }
 
 .parent{
 height:260px;
-width: 210px;
+width: 610px;
 margin: auto;
 top: 0px;
 right: 0px;
@@ -14,6 +15,7 @@ left: 0px;
 bottom: 0px;
 position: absolute;
 border: 1px solid;
+text-align:center;
 }
 
 
