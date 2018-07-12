@@ -1,5 +1,9 @@
-.content {
+.site{
 background-color: #315a5d;
+}
+
+.content {
+background-color: #fff;
 width: 200px; 
 height: 250px;
 float: left;
@@ -20,6 +24,12 @@ position: absolute;
 width: 10px;
 height: 250px;
 float: left;
+}
+
+.black{
+background-color: #000000;
+width: 90%;
+height: 90%;
 }
 
 
