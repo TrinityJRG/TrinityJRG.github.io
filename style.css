@@ -1,13 +1,13 @@
 .content {
 background-color: #315a5d;
-width: 160px; 
+width: 200x; 
 height: 250px;
 float: left;
 }
 
 .parent{
 height:260px;
-width: 520px;
+width: 560px;
 margin: auto;
 top: 0px;
 right: 0px;
