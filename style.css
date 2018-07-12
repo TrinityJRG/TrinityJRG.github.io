@@ -2,7 +2,12 @@
 background-color: #315a5d;
 width: 200px; 
 height: 250px;
-display: inline-block;
+margin: auto;
+top: 0px;
+right: 0px;
+left: 0px;
+bottom: 0px;
+position: absolute;
 }
 
 .parent{
@@ -15,7 +20,6 @@ left: 0px;
 bottom: 0px;
 position: absolute;
 border: 1px solid;
-text-align:center;
 }
 
 
