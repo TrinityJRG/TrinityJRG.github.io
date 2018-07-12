@@ -3,11 +3,10 @@ background-color: #315a5d;
 width: 30%; 
 height: 250px;
 float: left;
-padding: 10px;
-background-clip: padding-box;
 }
 
 .parent{
+padding: 10px;
 height:260px;
 width: 610px;
 margin: auto;
