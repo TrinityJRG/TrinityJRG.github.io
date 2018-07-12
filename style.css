@@ -1,12 +1,11 @@
 .content {
 background-color: #315a5d;
 width: 30%; 
-height: 30px;
+height: 250px;
 float: left;
 }
 
 .parent{
-padding: 10px;
 height:260px;
 width: 610px;
 margin: auto;
