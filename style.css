@@ -17,6 +17,10 @@ position: absolute;
 border: 1px solid;
 }
 
+.filler{
+width: 10px;
+}
+
 
 a {
 color: #99b4b9;
