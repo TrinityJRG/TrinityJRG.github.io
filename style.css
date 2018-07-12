@@ -1,15 +1,21 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+
+
 .span_1_of_3 {
 background-color: #315a5d;
 width: 33%; 
 height: 100%;
-display: inline-block;
 }
 
 .parent{
 text-align: center;
-margin: 10% 10% 10% 10%;
-width: 80%;
-height: 80%;
+width: 50%;
+height: 50%;
 }
 
 
