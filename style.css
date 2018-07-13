@@ -35,7 +35,7 @@
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 900px) {
 	.col {  margin: 1% 0 1% 0%; }
 	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
 }
@@ -44,7 +44,6 @@
 	display: inline-block;
 	background-color: #2d4c4b; 
 	height: 250px;
-	border-radius: 25px;
 	width: 220px;
 }
 
@@ -69,7 +68,8 @@ h1{
 	font-size: 35px;
 	color: #5e8579;
 	font-family: IPAMincho;
-	margin-bottom: 15;
+	margin-bottom: 10;
+	margin-top: 10
 }
 
 h2{
