@@ -22,7 +22,6 @@
 *  GRID OF FOUR  */
 .span_4_of_4 {
 	width: 100%;
-	text-align: center;
 }
 .span_3_of_4 {
 	width: 74.84%;
@@ -46,7 +45,7 @@
 }
 .welcome{
 	background-color: #2d4c4b;
-	display: inline-block;
+	text-align: center;
 }
 
 @font-face {
