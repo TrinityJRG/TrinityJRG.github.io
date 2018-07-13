@@ -22,6 +22,7 @@
 *  GRID OF FOUR  */
 .span_4_of_4 {
 	width: 100%;
+	text-align: center;
 }
 .span_3_of_4 {
 	width: 74.84%;
@@ -40,9 +41,21 @@
 }
 
 .content {
-background-color: #2d4c4b;
+	background-color: #2d4c4b; 
+	height: 250px;
 }
 .welcome{
 	background-color: #2d4c4b;
-	width: 100%;
+	display: inline-block;
+}
+
+@font-face {
+    font-family:IPAMincho;
+    src: url("/ipam.ttf") format('truetype');
+}
+
+ul{
+list-style-type: none;
+text-align: center;
+padding-left: 0;
 }
