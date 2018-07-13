@@ -43,7 +43,8 @@
 	background-color: #2d4c4b; 
 	height: 250px;
 }
-.welcome{
+
+#welcome{
 	text-align: center;
 	border: 1px solid;
 	width: 100%;
