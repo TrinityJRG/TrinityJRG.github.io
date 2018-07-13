@@ -46,8 +46,8 @@
 
 #welcome{
 	text-align: center;
-	border: 1px solid;
 	width: 98%;
+	padding: none;
 }
 
 @font-face {
