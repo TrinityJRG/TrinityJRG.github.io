@@ -31,7 +31,6 @@
 }
 .span_1_of_4 {
 	width: 24.62%;
-	text-align: center;
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
@@ -41,7 +40,6 @@
 }
 
 .content {
-	display: inline-block;
 	background-color: #2d4c4b; 
 	height: 250px;
 	width: 220px;
