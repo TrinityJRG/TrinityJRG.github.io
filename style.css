@@ -9,7 +9,7 @@
 .col {
 	display: block;
 	float:left;
-	margin: 1% 0 1% 1.6%;
+	margin: 1% 0 1% 0.5%;
 }
 .col:first-child { margin-left: 0; }
 
@@ -24,13 +24,13 @@
 	width: 100%;
 }
 .span_3_of_4 {
-	width: 74.6%;
+	width: 74.84%;
 }
 .span_2_of_4 {
-	width: 49.2%;
+	width: 49.75%;
 }
 .span_1_of_4 {
-	width: 23.8%;
+	width: 24.62%;
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
