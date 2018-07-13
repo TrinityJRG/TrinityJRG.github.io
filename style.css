@@ -44,8 +44,8 @@
 	height: 250px;
 }
 .welcome{
-	background-color: #2d4c4b;
 	text-align: center;
+	border: 1px solid;
 }
 
 @font-face {
