@@ -24,6 +24,7 @@ float: left;
 }
 
 h2{
+text-align: center;
 color: #99b4b9;
 font-family: IPAMincho;
 }
@@ -31,4 +32,5 @@ font-family: IPAMincho;
 a {
 color: #99b4b9;
 text-decoration:none;
+font-family: IPAMincho;
 }
