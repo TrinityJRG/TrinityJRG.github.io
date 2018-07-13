@@ -1,3 +1,8 @@
+@font-face {
+    font-family:IPAMincho;
+    src: url("/fonts/ipam.ttf") format('truetype');
+}
+
 
 .content {
 background-color: #000000;
@@ -21,6 +26,12 @@ position: absolute;
 width: 10px;
 height: 250px;
 float: left;
+}
+
+h1{
+text-align: center;
+color: #99b4b9;
+font-family: IPAMincho;
 }
 
 h2{
