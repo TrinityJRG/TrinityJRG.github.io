@@ -1,6 +1,6 @@
 @font-face {
     font-family:IPAMincho;
-    src: url("/fonts/ipam.ttf") format('truetype');
+    src: url("/ipam.ttf") format('truetype');
 }
 
 ul{
