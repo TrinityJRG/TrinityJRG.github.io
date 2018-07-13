@@ -39,3 +39,9 @@
 	.col {  margin: 1% 0 1% 0%; }
 	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
 }
+
+.content {
+background-color: #2d4c4b;
+width: 200px; 
+height: 250px;
+}
