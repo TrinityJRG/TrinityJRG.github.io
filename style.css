@@ -2,8 +2,10 @@
     font-family:IPAMincho;
     src: url("/fonts/ipam.ttf") format('truetype');
 }
+
 ul{
 list-stylu-type: none;
+text-align:center;
 }
 
 
