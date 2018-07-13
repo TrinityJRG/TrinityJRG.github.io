@@ -35,7 +35,7 @@ float: left;
 }
 
 h1{
-font-size: 30px;
+font-size: 35px;
 text-align: center;
 color: #5e8579;
 font-family: IPAMincho;
@@ -43,14 +43,14 @@ background-color: #2d4c4b;
 }
 
 h2{
-font-size: 28px;
+font-size: 30px;
 text-align: center;
 color: #5e8579;
 font-family: IPAMincho;
 }
 
 a {
-font-size: 25px;
+font-size: 23px;
 color: #5e8579;
 text-decoration:none;
 font-family: IPAMincho;
