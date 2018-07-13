@@ -22,19 +22,23 @@
 /*  GRID OF FOUR  */
 .span_4_of_4 {
 	width: 100%;
-	border-style: 1px solid;
+	border-style: solid;
+	border-width: 1px;
 }
 .span_3_of_4 {
 	width: 74.6%;
-	border-style: 1px solid;
+	border-style: solid;
+	border-width: 1px;
 }
 .span_2_of_4 {
 	width: 49.2%;
-	border-style: 1px solid;
+	border-style: solid;
+	border-width: 1px;
 }
 .span_1_of_4 {
 	width: 23.8%;
-	border-style: 1px solid;
+	border-style: solid;
+	border-width: 1px;
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
