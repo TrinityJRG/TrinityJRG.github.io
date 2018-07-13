@@ -11,7 +11,7 @@ padding-left: 0;
 
 
 .content {
-background-color: #4b746e;
+background-color: #2d4c4b;
 width: 200px; 
 height: 250px;
 float: left;
@@ -36,18 +36,18 @@ float: left;
 
 h1{
 text-align: center;
-color: #2d4c4b;
+color: #4b746e;
 font-family: IPAMincho;
 }
 
 h2{
 text-align: center;
-color: #2d4c4b;
+color: #4b746e;
 font-family: IPAMincho;
 }
 
 a {
-color: #2d4c4b;
+color: #4b746e;
 text-decoration:none;
 font-family: IPAMincho;
 }
