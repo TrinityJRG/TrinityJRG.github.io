@@ -4,12 +4,13 @@
 }
 
 ul{
-list-stylu-type: none;
+list-style-type: none;
+text-align: center;
 }
 
 
 .content {
-background-color: #000000;
+background-color: #476256;
 width: 200px; 
 height: 250px;
 float: left;
