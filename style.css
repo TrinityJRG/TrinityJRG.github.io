@@ -1,4 +1,4 @@
-/*  SECTIONS  */
+*  SECTIONS  */
 .section {
 	clear: both;
 	padding: 0px;
@@ -19,7 +19,7 @@
 .group:after { clear:both;}
 .group { zoom:1; /* For IE 6/7 */ }
 
-/*  GRID OF FOUR  */
+*  GRID OF FOUR  */
 .span_4_of_4 {
 	width: 100%;
 }
@@ -31,6 +31,7 @@
 }
 .span_1_of_4 {
 	width: 23.8%;
+	background-color: #2d4c4b;
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
@@ -38,18 +39,3 @@
 	.col {  margin: 1% 0 1% 0%; }
 	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
 }
-
-.content {
-	background-color: #2d4c4b;
-	border-style: solid;
-	border-width: 1px;
-	width: 200px;
-}
-
-.welcome {
-	background-color: #2d4c4b;
-	border-style: solid;
-	border-width: 1px;
-	width: 200px;
-}
-
