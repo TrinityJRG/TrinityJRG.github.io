@@ -6,11 +6,12 @@
 ul{
 list-style-type: none;
 text-align: center;
+padding-left: 0;
 }
 
 
 .content {
-background-color: #476256;
+background-color: #4b746e;
 width: 200px; 
 height: 250px;
 float: left;
